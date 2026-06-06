@@ -17,3 +17,4 @@ A fun and interactive web project built using HTML, CSS, and JavaScript.
 - Add more interactive features
 - Improve UI/UX
 - Optimize performance
+- More improved replies
